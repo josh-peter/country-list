@@ -1,0 +1,20 @@
+.btn_moon{
+    background-color: #fff;
+    padding: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid white;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+  }
+  
+  .btn_moon:hover {
+    background-color: #fff;
+    color: var(--dark-bg-color);
+  }
+  
+  .btn_moon {
+    background-color: var(--article-color);
+    border: 2px solid var(--article-color);
+  }
